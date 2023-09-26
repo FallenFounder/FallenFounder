@@ -1,6 +1,8 @@
 ## Hola! 👋
-### [I'm Artem](https://github.com/FallenFounder)
+#### [I'm Artem](https://github.com/FallenFounder)
 Researcher from Moscow. I really want to improve my ML/DS-skills. Will be much appreciate every advice. Nice to meet!
+
+🥅 2023 GOAL 🥅: First DS-job and First big contribution to business 
 
 ### 🔭 My first DS experince was [Yandex Prakticum](https://practicum.yandex.ru/data-scientist/?from=catalog)🔭
 It was very interesting journey and i want to continue it in working. During the course i learned a lot of basics thing like: 
