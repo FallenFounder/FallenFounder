@@ -1,5 +1,6 @@
-### Hi there 👋
-
+## Hola! 👋
+### [I'm Artem](https://github.com/FallenFounder)
+Researcher from Moscow. I really want to improve my ML/DS-skills. I'll be much appreciate every advice. Nice to meet!
 <!--
 **FallenFounder/FallenFounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
